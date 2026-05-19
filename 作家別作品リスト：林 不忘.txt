@@ -1,0 +1,36 @@
+<li><a href="../cards/000290/card47988.html">釘抜藤吉捕物覚書</a>　01 のの字の刀痕（新字新仮名、作品ID：47988）　</li> 
+<li><a href="../cards/000290/card48053.html">釘抜藤吉捕物覚書</a>　02 梅雨に咲く花（新字新仮名、作品ID：48053）　</li> 
+<li><a href="../cards/000290/card48052.html">釘抜藤吉捕物覚書</a>　03 三つの足跡（新字新仮名、作品ID：48052）　</li> 
+<li><a href="../cards/000290/card48051.html">釘抜藤吉捕物覚書</a>　04 槍祭夏の夜話（新字新仮名、作品ID：48051）　</li> 
+<li><a href="../cards/000290/card48050.html">釘抜藤吉捕物覚書</a>　05 お茶漬音頭（新字新仮名、作品ID：48050）　</li> 
+<li><a href="../cards/000290/card48049.html">釘抜藤吉捕物覚書</a>　06 巷説蒲鉾供養（新字新仮名、作品ID：48049）　</li> 
+<li><a href="../cards/000290/card48048.html">釘抜藤吉捕物覚書</a>　07 怪談抜地獄（新字新仮名、作品ID：48048）　</li> 
+<li><a href="../cards/000290/card48047.html">釘抜藤吉捕物覚書</a>　08 無明の夜（新字新仮名、作品ID：48047）　</li> 
+<li><a href="../cards/000290/card48046.html">釘抜藤吉捕物覚書</a>　09 怨霊首人形（新字新仮名、作品ID：48046）　</li> 
+<li><a href="../cards/000290/card48045.html">釘抜藤吉捕物覚書</a>　10 宇治の茶箱（新字新仮名、作品ID：48045）　</li> 
+<li><a href="../cards/000290/card48044.html">釘抜藤吉捕物覚書</a>　11 影人形（新字新仮名、作品ID：48044）　</li> 
+<li><a href="../cards/000290/card48043.html">釘抜藤吉捕物覚書</a>　12 悲願百両（新字新仮名、作品ID：48043）　</li> 
+<li><a href="../cards/000290/card48042.html">釘抜藤吉捕物覚書</a>　13 宙に浮く屍骸（新字新仮名、作品ID：48042）　</li> 
+
+<li><a href="../cards/000290/card24376.html">丹下左膳</a>　01 乾雲坤竜の巻（新字新仮名、作品ID：24376）　</li> 
+<li><a href="../cards/000290/card24377.html">丹下左膳</a>　02 こけ猿の巻（新字新仮名、作品ID：24377）　</li> 
+<li><a href="../cards/000290/card1800.html">丹下左膳</a>　03 日光の巻（新字新仮名、作品ID：1800）　</li> 
+
+<li><a href="../cards/000290/card48041.html">早耳三次捕物聞書</a>　01 霙橋辻斬夜話（新字新仮名、作品ID：48041）　</li> 
+<li><a href="../cards/000290/card48040.html">早耳三次捕物聞書</a>　02 うし紅珊瑚（新字新仮名、作品ID：48040）　</li> 
+<li><a href="../cards/000290/card48039.html">早耳三次捕物聞書</a>　03 浮世芝居女看板（新字新仮名、作品ID：48039）　</li> 
+<li><a href="../cards/000290/card48038.html">早耳三次捕物聞書</a>　04 海へ帰る女（新字新仮名、作品ID：48038）　</li> 
+
+<li><a href="../cards/000290/card1812.html">仇討たれ戯作</a>　（新字新仮名、作品ID：1812）　</li> 
+<li><a href="../cards/000290/card1811.html">あの顔</a>　（新字新仮名、作品ID：1811）　</li> 
+<li><a href="../cards/000272/card1805.html">安重根</a>　――十四の場面――（新字新仮名、作品ID：1805）　 　　 →<a href="person272.html">谷 譲次</a>(著者) </li> 
+<li><a href="../cards/000290/card1807.html">稲生播磨守</a>　（新字新仮名、作品ID：1807）　</li> 
+<li><a href="../cards/000290/card1809.html">寛永相合傘</a>　（新字新仮名、作品ID：1809）　</li> 
+<li><a href="../cards/000290/card1810.html">口笛を吹く武士</a>　（新字新仮名、作品ID：1810）　</li> 
+<li><a href="../cards/000290/card1808.html">元禄十三年</a>　（新字新仮名、作品ID：1808）　</li> 
+<li><a href="../cards/000290/card46228.html">巷説享保図絵</a>　（新字新仮名、作品ID：46228）　</li> 
+<li><a href="../cards/000290/card46229.html">つづれ烏羽玉</a>　（新字新仮名、作品ID：46229）　</li> 
+<li><a href="../cards/000290/card1804.html">平馬と鶯</a>　（新字新仮名、作品ID：1804）　</li> 
+<li><a href="../cards/000290/card1803.html">煩悩秘文書</a>　（新字新仮名、作品ID：1803）　</li> 
+<li><a href="../cards/000290/card45670.html">魔像</a>　新版大岡政談（新字新仮名、作品ID：45670）　</li> 
+<li><a href="../cards/000290/card1806.html">若き日の成吉思汗</a>　――市川猿之助氏のために――（新字新仮名、作品ID：1806）　 　　 →<a href="person304.html">牧 逸馬</a>(著者) </li> 
